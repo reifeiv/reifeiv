@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:6d28d9,50:4f46e5,100:2563eb&height=220&section=header&text=Reinaldo%20Farias&fontSize=42&fontAlign=50&fontAlignY=38&desc=Lead%20Solutions%20Architect%20%7C%20Senior%20Full-Stack%20%26%20Mobile%20Engineer&descAlign=50&descAlignY=62&stroke=8b5cf6" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:6d28d9,50:4f46e5,100:2563eb&height=220&section=header&text=Reinaldo%20Farias&fontSize=42&fontAlign=50&fontAlignY=38&desc=Systems%20Engineer%20%7C%20DevOps%2C%20Help%20Desk%20%26%20Software%20Developer&descAlign=50&descAlignY=62&stroke=8b5cf6" width="100%" alt="Header Banner" />
   
   <br />
 
   <a href="https://github.com/reifeiv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Lead+Solutions+Architect+%7C+Full-Stack+%26+Mobile;Enterprise+System+Resilience+%26+Offline-First;AI%2FML+Integrations+%26+Cloud+Microservices;Native+Flutter+60+FPS+%26+.NET+10+Ecosystem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.S.+Systems+Engineer+%40+Metanol+de+Oriente+METOR%2C+S.A.;DevOps+%26+Corporate+Domain%2FEmail%2FWordPress+Admin;Help+Desk+Support+%26+Face-to-Face+Customer+Service;Custom+Software+Development+%26+User+Inductions" alt="Typing SVG" />
   </a>
 
   <br /><br />
