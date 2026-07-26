@@ -38,7 +38,7 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 ### 🌟 Core Competencies & Mindset
 - **Systems Engineering Degree**: Solid education in software engineering, system architecture, database design, and process optimization.
 - **DevOps & IT Administration**: Full domain lifecycle management, DNS configuration, corporate email setup, and WordPress administration & maintenance.
-- **Custom Application Development**: Engineering desktop, web, and database software (.NET 10, WPF, SQLite, Flutter, Astro, Access/VBA).
+- **Custom Application Development**: Engineering desktop, web, database, and AI-integrated software (.NET 10, WPF, SQLite, Flutter, Astro, Google Gemini API, Access/VBA).
 - **Help Desk & Face-to-Face Support**: Direct in-person customer service, technical troubleshooting, and end-user support.
 - **Software Inductions & Training**: Planning and conducting interactive software onboarding and training workshops for users.
 
@@ -58,6 +58,8 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,mongo,firebase,supabase,vercel,astro,react,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLM-Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini Badge" />
 </div>
 
 <br />
@@ -69,6 +71,7 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 | **Languages** | `C#` • `Dart` • `TypeScript` • `JavaScript` • `Python` • `SQL` • `C++` • `VBA` |
 | **Frontend & UI** | `Flutter (iOS & Android)` • `Flutter Web` • `WPF (.NET 10)` • `Astro` • `React` • `WordPress` |
 | **Backend & Databases** | `Supabase` • `ASP.NET Core Web API` • `Firebase Cloud Functions` • `PostgreSQL (JSONB)` • `SQLite` • `Dapper (Micro-ORM)` |
+| **AI & LLM Integration** | `Google Gemini API` • `Function Calling & Structured Outputs` • `Contextual Prompt Engineering` • `RAG Architectures` |
 | **DevOps & IT Ops** | `Vercel` • `Domain & DNS Admin` • `Corporate Email Infrastructure` • `WordPress Administration` • `Docker` • `Git` |
 | **User Support & Enablement** | `Help Desk & Technical Support` • `Face-to-Face Customer Service` • `Software Induction & Training` |
 
@@ -79,7 +82,7 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 | Domain | Proficiency | Key Implementation & Architecture Details |
 | :--- | :---: | :--- |
 | **Document Intelligence & Spatial OCR** | Advanced | Engineered custom PDF/Excel spatial layout parsers using `PdfPig`, reconstructing telemetry data grids via 2D coordinate matrices with sub-3-second execution time. |
-| **LLM Orchestration & RAG** | Advanced | Integrating contextual AI agents, prompt pipeline optimization, and local Retrieval-Augmented Generation (RAG) architectures for enterprise search. |
+| **LLM Orchestration & RAG** | Advanced | Integrating contextual AI agents powered by **Google Gemini API**, prompt pipeline optimization, structured JSON output/function calling, and local Retrieval-Augmented Generation (RAG) architectures for enterprise search. |
 | **Predictive Analytics & Industrial Telemetry** | Proficient | Building transactional queues (`SQLite` / `Dapper`), time-series telemetry aggregations, and Power BI operational dashboards for industrial chemical plants. |
 | **AI-Assisted Micro-Learning Engines** | Advanced | Architected desensitized user progress models and algorithmic daily-streak recommendation logic in SaaS platforms under CEFR standards. |
 
