@@ -241,13 +241,6 @@ An enterprise security and contractor management platform developed for heavy ma
     <img src="https://img.shields.io/badge/LinkedIn-reinaldo--farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/reifeiv">
-    <img src="https://img.shields.io/badge/GitHub-reifeiv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/reifeiv">
-    <img src="https://img.shields.io/badge/Portfolio-reifeiv.github.io-6D28D9?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 ---
