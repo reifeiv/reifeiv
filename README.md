@@ -4,14 +4,15 @@
   <br />
 
   <a href="https://github.com/reifeiv">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=B.S.+Systems+Engineer+%40+Metanol+de+Oriente+METOR%2C+S.A.;DevOps+%26+Corporate+Domain%2FEmail%2FWordPress+Admin;Help+Desk+Support+%26+Face-to-Face+Customer+Service;Custom+Software+Development+%26+User+Inductions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Lead+Solutions+Architect+%7C+Full-Stack+%26+Mobile;Enterprise+System+Resilience+%26+Offline-First;AI%2FML+Integrations+%26+Cloud+Microservices;Native+Flutter+60+FPS+%26+.NET+10+Ecosystem" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
   <!-- Academic & Location Badges -->
-  <img src="https://img.shields.io/badge/Degree-B.S.%20Computer%20Science-7C3AED?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-B.S.%20Systems%20Engineering-7C3AED?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/Company-Metanol%20de%20Oriente%20METOR%2C%20S.A.-4F46E5?style=for-the-badge&logo=industry&logoColor=white" alt="Company" />
+  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
   <br /><br />
 
@@ -31,21 +32,24 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer and Lead Solutions Architect with a proven track record of engineering mission-critical, enterprise-grade systems and high-performance cross-platform mobile applications. Specialized in designing resilient offline-first transactional architectures, high-throughput microservices, and gamified native mobile experiences running at a locked 60 FPS.
+Systems Engineer at **Metanol de Oriente (METOR, S.A.)** combining a solid background in Systems Engineering with hands-on experience across **DevOps**, **Help Desk & Technical Support**, **Corporate IT Infrastructure**, and **Custom Application Development**.
+
+Experienced in full-spectrum IT operations—managing corporate domains, DNS records, business email platforms, and WordPress web systems, providing face-to-face technical customer support, building tailored enterprise software, and leading software induction training sessions for operational teams.
 
 ### 🌟 Core Competencies & Mindset
-- **Software Engineering Excellence**: Strong foundation in SOLID principles, Clean Architecture, Domain-Driven Design (DDD), and distributed systems patterns.
-- **Full-Stack & Systems Architecture**: Seamless integration between desktop runtimes (.NET 10 / WPF / SQLite), modern web applications (Astro, Flutter Web, React), and cloud microservices (ASP.NET Core, PostgreSQL, Firebase).
-- **AI & Data Intelligence**: Engineering modern data pipelines, spatial parsing algorithms, and embedding LLM capabilities into operational workflows.
-- **Product Engineering Mindset**: Translating complex industrial and corporate bottlenecks into high-ROI, resilient software products with zero downtime.
+- **Systems Engineering Degree**: Solid education in software engineering, system architecture, database design, and process optimization.
+- **DevOps & IT Administration**: Full domain lifecycle management, DNS configuration, corporate email setup, and WordPress administration & maintenance.
+- **Custom Application Development**: Engineering desktop, web, and database software (.NET 10, WPF, SQLite, Flutter, Astro, Access/VBA).
+- **Help Desk & Face-to-Face Support**: Direct in-person customer service, technical troubleshooting, and end-user support.
+- **Software Inductions & Training**: Planning and conducting interactive software onboarding and training workshops for users.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                                   OPEN TO OPPORTUNITIES                                │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
-│  • Senior / Lead Full-Stack & Mobile Architecture Roles                                │
-│  • Enterprise Software Consulting & Systems Engineering                               │
-│  • High-Impact SaaS Engineering & Offline-First Distributed Systems                   │
+│  • Systems Engineering & Full-Stack Development Roles                                  │
+│  • DevOps, IT Infrastructure & Technical Operations Management                         │
+│  • Custom Enterprise Application Development & Technical Training                      │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -54,7 +58,7 @@ Senior Software Engineer and Lead Solutions Architect with a proven track record
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,firebase,ts,js,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio,postman&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,firebase,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -64,9 +68,10 @@ Senior Software Engineer and Lead Solutions Architect with a proven track record
 | Category | Technologies & Tooling |
 | :--- | :--- |
 | **Languages** | `C#` • `Dart` • `TypeScript` • `JavaScript` • `Python` • `SQL` • `C++` • `VBA` |
-| **Frontend & UI** | `Flutter (iOS & Android)` • `Flutter Web` • `WPF (.NET 10)` • `Astro` • `React` • `Tailwind CSS` |
+| **Frontend & UI** | `Flutter (iOS & Android)` • `Flutter Web` • `WPF (.NET 10)` • `Astro` • `React` • `WordPress` |
 | **Backend & Databases** | `ASP.NET Core Web API` • `Firebase Cloud Functions` • `PostgreSQL (JSONB)` • `SQLite` • `Dapper (Micro-ORM)` |
-| **Cloud, DevOps & Tooling** | `AWS` • `Docker` • `GitHub Actions` • `Inno Setup` • `Power BI / M Query` • `Git` • `Linux` |
+| **DevOps & IT Ops** | `Domain & DNS Admin` • `Corporate Email Infrastructure` • `WordPress Administration` • `Docker` • `Git` |
+| **User Support & Enablement** | `Help Desk & Technical Support` • `Face-to-Face Customer Service` • `Software Induction & Training` |
 
 ---
 
@@ -74,7 +79,7 @@ Senior Software Engineer and Lead Solutions Architect with a proven track record
 
 | Domain | Proficiency | Key Implementation & Architecture Details |
 | :--- | :---: | :--- |
-| **Document Intelligence & Spatial OCR** | Advanced | Engineered custom PDF/Excel spatial layout parsers using `PdfPig`, reconstructing telemetry data grids via 2D coordinate matrices with a sub-3-second execution time. |
+| **Document Intelligence & Spatial OCR** | Advanced | Engineered custom PDF/Excel spatial layout parsers using `PdfPig`, reconstructing telemetry data grids via 2D coordinate matrices with sub-3-second execution time. |
 | **LLM Orchestration & RAG** | Advanced | Integrating contextual AI agents, prompt pipeline optimization, and local Retrieval-Augmented Generation (RAG) architectures for enterprise search. |
 | **Predictive Analytics & Industrial Telemetry** | Proficient | Building transactional queues (`SQLite` / `Dapper`), time-series telemetry aggregations, and Power BI operational dashboards for industrial chemical plants. |
 | **AI-Assisted Micro-Learning Engines** | Advanced | Architected desensitized user progress models and algorithmic daily-streak recommendation logic in SaaS platforms under CEFR standards. |
@@ -179,17 +184,12 @@ An enterprise security and contractor management platform developed for heavy ma
 
 ## 💼 Work Experience
 
-### **Lead Solutions Architect & Senior Full-Stack Engineer** | Enterprise Software Consulting
-*2024 — Present*
-- Architected enterprise desktop and web platforms for industrial chemical plants, driving a **93% reduction** in manual data ingestion times.
-- Designed offline-first distributed synchronization systems connecting local SQLite transactional queues with cloud-hosted PostgreSQL instances.
-- Engineered high-efficiency PDF/Excel spatial parsing pipelines handling high-density shift reports within 3 seconds.
-
-### **Senior Mobile Developer & SaaS Architect** | Lify SaaS
-*2024 — 2025*
-- Led the end-to-end mobile development of a B2B gamified learning application in Flutter, maintaining a locked 60 FPS user experience.
-- Implemented monorepo architecture allowing **40% code sharing** between native mobile and web admin platforms.
-- Structured Firebase Cloud Functions microservices for asynchronous analytics aggregations and automated push notifications.
+### **Systems Engineer (DevOps, Help Desk & Software Developer)** | **Metanol de Oriente, METOR, S.A.**
+*August 2025 — Present*
+- **DevOps & IT Administration**: Administered corporate domain name configurations (DNS), corporate email infrastructure, and managed/maintained the company's corporate **WordPress** website ensuring high availability, security hardening, and performance optimization.
+- **Custom Application Development**: Full-lifecycle application engineering, designing desktop, web, and internal database applications (.NET 10, WPF, SQLite, Access/VBA) tailored to plant operational telemetry and gate access control.
+- **Help Desk & Face-to-Face Technical Support**: Provided direct in-person technical customer service and end-user support for employees across plant departments, diagnosing and resolving software/hardware incidents.
+- **Software Inductions & User Training**: Conducted interactive onboarding inductions and hands-on training workshops for users on newly developed custom software applications, driving seamless operational adoption.
 
 ---
 
@@ -199,10 +199,10 @@ An enterprise security and contractor management platform developed for heavy ma
 
 | Recognition & Milestone | Operational Details & Impact |
 | :--- | :--- |
-| **93% Industrial Optimization** | Engineered automated parsing algorithms reducing shift data processing time from hours to seconds. |
-| **60 FPS Mobile Engine** | Delivered ultra-smooth, responsive mobile UI animations and state recovery mechanisms on iOS & Android. |
-| **100% Resilient Data Sync** | Designed zero-data-loss offline sync queues resolving concurrency conflicts over unstable networks. |
-| **Zero-Cost Enterprise Deploy** | Built enterprise-level access control software leveraging existing infrastructure with zero licensing fees. |
+| **B.S. Systems Engineering** | Degree in Systems Engineering with specialization in software engineering & IT ops. |
+| **Metanol de Oriente (METOR, S.A.)** | Systems Engineer managing DevOps, Help Desk, WordPress admin, and software dev. |
+| **Software Inductions & Onboarding** | Led interactive training workshops driving 100% user adoption of custom applications. |
+| **Domain, Email & WordPress Admin** | Full administration of corporate web domains, email accounts, and WordPress platform. |
 
 </div>
 
