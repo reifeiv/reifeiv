@@ -10,7 +10,7 @@
 
   <!-- Academic & Location Badges -->
   <img src="https://img.shields.io/badge/Degree-B.S.%20Systems%20Engineering-7C3AED?style=for-the-badge&logo=academicons&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Company-Metanol%20de%20Oriente%20METOR%2C%20S.A.-4F46E5?style=for-the-badge&logo=industry&logoColor=white" alt="Company" />
+  <img src="https://img.shields.io/badge/Company-Metanol%20de%20Oriente%20METOR%2C%20S.A.-EA4335?style=for-the-badge&logo=industry&logoColor=white" alt="Company" />
   <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
   <br /><br />
@@ -57,7 +57,7 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,firebase,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,mongo,firebase,supabase,vercel,astro,react,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
 </div>
 
 <br />
@@ -68,8 +68,8 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 | :--- | :--- |
 | **Languages** | `C#` • `Dart` • `TypeScript` • `JavaScript` • `Python` • `SQL` • `C++` • `VBA` |
 | **Frontend & UI** | `Flutter (iOS & Android)` • `Flutter Web` • `WPF (.NET 10)` • `Astro` • `React` • `WordPress` |
-| **Backend & Databases** | `ASP.NET Core Web API` • `Firebase Cloud Functions` • `PostgreSQL (JSONB)` • `SQLite` • `Dapper (Micro-ORM)` |
-| **DevOps & IT Ops** | `Domain & DNS Admin` • `Corporate Email Infrastructure` • `WordPress Administration` • `Docker` • `Git` |
+| **Backend & Databases** | `Supabase` • `ASP.NET Core Web API` • `Firebase Cloud Functions` • `PostgreSQL (JSONB)` • `SQLite` • `Dapper (Micro-ORM)` |
+| **DevOps & IT Ops** | `Vercel` • `Domain & DNS Admin` • `Corporate Email Infrastructure` • `WordPress Administration` • `Docker` • `Git` |
 | **User Support & Enablement** | `Help Desk & Technical Support` • `Face-to-Face Customer Service` • `Software Induction & Training` |
 
 ---
