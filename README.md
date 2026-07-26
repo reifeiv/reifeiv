@@ -16,25 +16,14 @@
   <br /><br />
 
   <!-- Action & Social Buttons -->
-  <a href="https://github.com/reifeiv">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Demo-6D28D9?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/fsroj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:reinaldoj.farias.u@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/reifeiv">
-    <img src="https://img.shields.io/badge/GitHub-reifeiv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 
   <br /><br />
-
-  <!-- GitHub Metrics Badges -->
-  <img src="https://komarev.com/ghpvc/?username=reifeiv&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/reifeiv?style=for-the-badge&logo=github&color=4f46e5&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/reifeiv?style=for-the-badge&logo=github&color=6d28d9&label=TOTAL+STARS" alt="Stars" />
 
 </div>
 
