@@ -57,7 +57,7 @@ Experienced in full-spectrum IT operations—managing corporate domains, DNS rec
 ## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,mongo,firebase,supabase,vercel,gemini,astro,react,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,postgres,sqlite,mongo,firebase,supabase,vercel,astro,react,ts,js,wordpress,html,css,python,cpp,aws,docker,git,github,vscode,visualstudio&perline=10" alt="Tech Stack Icons" />
 </div>
 
 <br />
